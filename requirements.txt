@@ -6,3 +6,4 @@ pandas
 statsmodels
 nltk
 ckiptagger
+beautifulsoup4
