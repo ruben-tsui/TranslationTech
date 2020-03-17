@@ -9,3 +9,4 @@ hanlp
 ckiptagger
 beautifulsoup4
 lxml
+spacy
