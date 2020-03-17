@@ -7,3 +7,4 @@ statsmodels
 nltk
 ckiptagger
 beautifulsoup4
+lxml
