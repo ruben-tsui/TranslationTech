@@ -5,6 +5,7 @@ matplotlib
 pandas
 statsmodels
 nltk
+hanlp
 ckiptagger
 beautifulsoup4
 lxml
