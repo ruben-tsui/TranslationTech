@@ -3,6 +3,7 @@ scipy
 sympy
 matplotlib
 pandas
+xlrd
 statsmodels
 nltk
 hanlp
