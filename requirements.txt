@@ -4,6 +4,7 @@ sympy
 matplotlib
 pandas
 xlrd
+openpyxl
 statsmodels
 nltk
 hanlp
