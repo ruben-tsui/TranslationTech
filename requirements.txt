@@ -6,10 +6,9 @@ pandas
 xlrd
 openpyxl
 statsmodels
-nltk
-hanlp
-ckiptagger
 beautifulsoup4
 lxml
+nltk
 spacy
 pynlpir
+ckiptagger
